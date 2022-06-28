@@ -1,3 +1,4 @@
+//controller
 const Product = require('./ProductApiFunctions')
 const products = require('./data.json')
 
